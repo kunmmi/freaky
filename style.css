@@ -3995,7 +3995,19 @@ h3 {
   }
 
   .menu-button {
+    top: 30px;
     background-color: var(--beige);
+    width: 2px;
+    height: 30px;
+    border: none;
+    font-size: 16px;
+    background: url('/media/12713140.png') no-repeat center center;
+    background-size: cover;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
   }
 
   .menu-button.w--open {
