@@ -204,7 +204,7 @@ td, th {
 }
 
 .w-icon-nav-menu:before {
-  content: 'x' ;
+  content: '' ;
   background-image: url("/media/a.png")
   height: ;
   font-family: cursive;
@@ -4011,7 +4011,7 @@ h3 {
   }
 
   .menu-button.w--open {
-    background-color: var(--beige);
+    background-color: black;
     color: var(--brown);
   }
 
